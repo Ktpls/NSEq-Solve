@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NSEq", "NSEq\NSEq.vcxproj", "{44FCC933-CCCA-4868-91DE-2210DABA6515}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pyNSEq", "..\pyNSEq\pyNSEq\pyNSEq.pyproj", "{B390B620-5E03-494B-98F4-1EB93CC2ABA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Debug|x64.ActiveCfg = Debug|x64
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Debug|x64.Build.0 = Debug|x64
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Debug|x86.ActiveCfg = Debug|Win32
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Debug|x86.Build.0 = Debug|Win32
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Release|Any CPU.ActiveCfg = Release|Win32
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Release|x64.ActiveCfg = Release|x64
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Release|x64.Build.0 = Release|x64
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Release|x86.ActiveCfg = Release|Win32
+		{44FCC933-CCCA-4868-91DE-2210DABA6515}.Release|x86.Build.0 = Release|Win32
+		{B390B620-5E03-494B-98F4-1EB93CC2ABA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B390B620-5E03-494B-98F4-1EB93CC2ABA2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B390B620-5E03-494B-98F4-1EB93CC2ABA2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B390B620-5E03-494B-98F4-1EB93CC2ABA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B390B620-5E03-494B-98F4-1EB93CC2ABA2}.Release|x64.ActiveCfg = Release|Any CPU
+		{B390B620-5E03-494B-98F4-1EB93CC2ABA2}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E14956D-8D3D-4426-AF7F-E90BBC1F4D58}
+	EndGlobalSection
+EndGlobal
